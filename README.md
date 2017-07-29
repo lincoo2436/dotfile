@@ -1,2 +1,1 @@
-# rxvt-and-term-config
-# awesome
+配置文件备份
